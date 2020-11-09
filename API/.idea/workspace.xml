@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd741769-af05-4545-9989-59e1d10f3ed8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/technical-test-reyah.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../api.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../entities-controllers/BookController.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../entities/Book.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../go.mod" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../go.sum" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
